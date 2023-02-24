@@ -1,4 +1,19 @@
-# Base layout template with Gulp, SCSS and Stylelint
-1. Create a repo using this template
-1. Replace `<your_account>` and `<repo_name>` with your Github username and the new repo name
-    - [DEMO LINK](https://<your_account>.github.io/<repo_name>/)
+# NAMU landing page
+  A landing page for the National Art Museum of Ukraine. Describes information about current exhibitions, other events in the museum. Contains a news block and a form to subscribe to the digest. Presents the museum's opening hours and contacts.
+
+  [DEMO LINK](https://OlhaArama.github.io/namu/)
+
+# Technologies
+  - HTML5
+  - CSS3
+  - Sass (SCSS)
+  - BEM
+  - JavaScript
+
+# Design
+  A landing page is implemented according to the [design in Figma](https://www.figma.com/file/HL3XGt5ZatvJoYBhOaWY5x/museum-prototype?t=cZnv43txIYhRQ9qo-6)
+
+# How to run the project locally
+  - Fork and clone this repository
+  - Run "npm install" in your terminal
+  - Run "npm start" to start the project locally
